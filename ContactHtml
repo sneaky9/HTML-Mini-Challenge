@@ -1,0 +1,30 @@
+<html>
+
+	<head>
+		<title>
+			Contact Me
+		</title>
+	</head>
+	
+	<body>
+		<a href="AboutMe.html" align=center> Back to Home! </a>
+		<h2 align=center> Contact Me! </h2> <br>
+		<p align=left> Email: 
+		<input type="text" required/>
+		<p align=left> Area of concern 
+		<select>
+			<option value="LOVE IT">LOVE IT</option>
+			<option value="HATE IT">HATE IT</option>
+			<option value="JUST PASSIN" selected>JUST PASSIN</option>
+		</select>
+		<p align=left> Title:
+		<input type="text" required/>
+		
+		<p align=left> Message:
+		<textarea name="text area" cols="40" rows="6">
+		</textarea>
+		<br>
+		<input type="submit"/>
+	</body>
+	
+</html>	
