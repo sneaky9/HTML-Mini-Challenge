@@ -1,0 +1,57 @@
+<html>
+
+	<head>
+		<title>
+			My Site
+		</title>
+	</head>
+	
+	<body>
+		<a name="top"></a>
+
+		<h3 align="center"> Hello! <br>
+		<h3 align="center"> I've been expecting you 
+		<p 	align="left"> Table of Contents 
+		
+<div align="left">
+		<ol>
+		<li><a href="#about">About Me</a></li>
+		<li><a href="#vid">My Video for the Week</a></li>
+		<li><a href="#song">Last Song Syndrome</a></li>
+		<li><a href="#interests">My Interests</a></li>
+		<li><a href="Acad.html">Academic Life</a></li>
+		<li><a href="Contact.html">Contact Me</a></li>
+		</ol>
+</div>	
+
+<div align="center">	
+		<h3> About Me! </h3> <br>
+		<a name="about"></a>
+		<img src="images1.jpg" width="100px"> </img> <br>
+		<p> Hello my name is thomas.</p> <br>
+		
+		<h3> Video for the Week </h3> 
+		<iframe width="560" height="315" src="http://www.youtube.com/embed/9C_HReR_McQ" frameborder="0" allowfullscreen></iframe>
+		<a name="vid"></a>
+		<br> <br>
+		
+		<h3> Last Song Syndrome </h3> 
+		<audio controls>
+			<source src="count.mp3"/>
+		</audio>
+		<a name="song"></a>
+		
+		<h3> Interests </h3> 
+		<ul>
+		<li>Swimming</li> 
+		<li>Music</li> 
+		<li>Online Games</li> 
+		</ul>
+		<a name="interests"></a>
+
+		<br>
+		<a href="#top"> Back to the Top </a>
+</div>		
+	</body>
+	
+</html>	
