@@ -1,1 +1,1 @@
-# HTML-Mini-Challenge
+This is the home page
