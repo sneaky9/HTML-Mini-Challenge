@@ -1,0 +1,33 @@
+<html>
+
+	<head>
+		<title>
+			Academics
+		</title>
+	</head>
+	
+	<body>
+		<a href="AboutMe.html" align=center> Back to Home! </a>
+		<h2 align=center> Academic Life! </h2> <br>
+		<p align=center> ID Number: 11302453 <br>
+		<p align=center> Course: BS-CS <br>
+		<p align=center> My Classes:
+		
+		<table border= "5px">
+		<tr>
+			<th> COURSE CODE </th>
+			<th> TIMESLOT </th>
+		</tr>
+		<tr>
+			<th> NTCOR1 </th>
+			<th> TH 14:15-16:15 </th>
+		</tr>
+		<tr>
+			<th> COMPASM </th>
+			<th> MW 16:15-17:15 </th>
+		</tr>
+		</table>
+
+	</body>
+	
+</html>	
